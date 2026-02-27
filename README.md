@@ -1,5 +1,5 @@
 # HelloDave
-Blake's first public repo
+Blake's first public repo - using SQL to create some basedata based on health insurance options to model and compare different plns across different spending interval projects.
 
 Let's see if we get anywhere with this business. 
 
